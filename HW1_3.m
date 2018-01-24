@@ -9,4 +9,4 @@ result=mean(exp(exp(A)))
 syms x;
 a=int(exp(-x^2),x,-inf,inf)
 
-% Question 
+
